@@ -15,5 +15,5 @@ feel free to make code for your usage preferences!
 
 my demo for problem [TypoCoderDiv1](https://arena.topcoder.com/#/u/practiceCode/15861/36809/12924/1/320020), test cases from this [page](https://community.topcoder.com/stat?c=problem_solution&rm=319909&rd=15820&pm=12924&cr=22714443)
 
-![accept](C:\Users\PRISM17\Desktop\OfflineJudge\accept.png)
+![accept](accept.png)
 
