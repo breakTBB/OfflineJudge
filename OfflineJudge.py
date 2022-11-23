@@ -2,6 +2,7 @@ import httpx
 import os
 from os import system
 from bs4 import BeautifulSoup
+from colorama import Fore, Back, Style
 
 data = {
     'username' : 'prism17',
@@ -54,12 +55,12 @@ if res.status_code == 200:
             system('g++ -o you_wont_name_it_like_this you_wont_name_it_like_this.cpp')
             system('you_wont_name_it_like_this < input.txt > user_output')
             if system('fc user_output output.txt'):
-                print('Wrong Answer')
+                print(Fore.BLACK + Back.RED + 'Wrong Answer')
                 print(f'input: {test_list[i]}')
                 print(f'expected: {answer_list[i]}')
                 exit(0)
-            print('Accept')
+    print(Fore.BLACK + Back.GREEN + 'Accept')
+    print(Style.RESET_ALL)
 else:
-    print('fail to connect topcoder')
+    print(Fore.BLACK + Back.RED + 'Fail to connect topcoder')
     exit(0)
-
