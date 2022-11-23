@@ -13,7 +13,7 @@ write your code in main.cpp and make sure you main() function meets the pattern.
 
 for following definition 
 
-![image-20221123223104184](C:\Users\PRISM17\Desktop\OfflineJudge\definition.png)
+![image-20221123223104184](definition.png)
 
 you should make main() function exactly equals these lines.
 
