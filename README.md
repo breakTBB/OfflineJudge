@@ -32,3 +32,5 @@ my demo for problem [TypoCoderDiv1](https://arena.topcoder.com/#/u/practiceCode/
 
 ![accept](accept.png)
 
+# Todo List
+- [ ] to reuse the test cases file instead of fetching data everytime
