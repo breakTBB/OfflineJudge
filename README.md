@@ -34,3 +34,5 @@ my demo for problem [TypoCoderDiv1](https://arena.topcoder.com/#/u/practiceCode/
 
 # Todo List
 - [ ] to reuse the test cases file instead of fetching data everytime
+- [ ] only compile once. important!
+
